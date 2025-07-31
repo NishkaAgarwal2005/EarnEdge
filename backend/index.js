@@ -39,3 +39,5 @@ app.listen(PORT,async()=>{
     await connectDB();
     console.log(`Server running at port ${PORT}`);
 })
+
+//api integration 

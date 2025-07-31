@@ -98,3 +98,5 @@ export const updateCompany = async (req, res) => {
         console.log(error);
     }
 }
+
+// make any changes if you think required can add according to your requirements
